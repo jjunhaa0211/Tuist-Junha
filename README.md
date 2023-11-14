@@ -2,6 +2,7 @@
 
 > 완성된 것은 `🖤` 태그가 붙어있습니다. <br>
 > 보완할 것이 남은 내용에는 `🏗️` 태그가 붙어있습니다.
+> 중요하지는 않지만 시간 나면 읽었으면 좋을 심화 지식에는 `🎩️` 태그가 붙어있습니다.
 
 <div align=center>
 
@@ -36,11 +37,11 @@
 
 <br>
 
-## **Chapter II: Tuist 몸풀기**
+## **Chapter II: Tuist를 시작하며**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🖤 |
-
+  > |2|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🖤 |
 <br>
 
 # Template

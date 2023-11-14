@@ -31,18 +31,18 @@
 ## **Chapter I: Tuist를 시작하기 전 사전 지식**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Tuist란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/1.md) | ~없음~ | 🖤 |
-  > |2|**모듈화란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/3.md) | ~없음~ | 🖤 |
-  > |3|**응집도란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/4.md) | ~없음~ | 🖤 |
-  > |4|**결합도란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/5.md) | ~없음~ | 🖤 |
-  > |5|**의존성이란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/6.md) | ~없음~ | 🖤 |
+  > |1|**Tuist란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20I/1.md) | ~없음~ | 🖤 |
+  > |2|**모듈화란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20I/2.md) | ~없음~ | 🖤 |
+  > |3|**응집도란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20I/3.md) | ~없음~ | 🖤 |
+  > |4|**결합도란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20I/4.md) | ~없음~ | 🖤 |
+  > |5|**의존성이란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20I/5.md) | ~없음~ | 🖤 |
 
 <br>
 
 ## **Chapter II: Tuist를 시작하며**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🖤 |
+  > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20II/1.md) | ~없음~ | 🖤 |
 <br>
 
 # Tuist 공식문서 번역

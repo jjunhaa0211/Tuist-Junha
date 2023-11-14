@@ -31,8 +31,9 @@
   > |1|**Tuist란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/1.md) | ~없음~ | 🖤 |
   > |2|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🖤 |
   > |3|**모듈화란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/3.md) | ~없음~ | 🖤 |
-  > |4|**응집도란?** |  | ~없음~ | 🖤 |
-  > |5|**의존성이란?** |  | ~없음~ | 🏗️ |
+  > |4|**응집도란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/4.md) | ~없음~ | 🖤 |
+  > |5|**결합도란?** |  | ~없음~ | 🏗️ |
+  > |6|**의존성이란?** |  | ~없음~ | 🏗️ |
 
 <br>
 

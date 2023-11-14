@@ -27,7 +27,7 @@
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Tuist란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/1.md) | ~없음~ | 🏗️ |
-  > |2|**Tuist 설치 및 명령어** | 내용 | ~없음~ | 🏗️ |
+  > |2|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🏗️ |
 
 <br>
 

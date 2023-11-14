@@ -45,7 +45,7 @@
   > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🖤 |
 <br>
 
-## Tuist 공식문서 번역
+# Tuist 공식문서 번역
 
 ## **Chapter I: 튜토리얼**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
@@ -71,7 +71,7 @@
 <br>
 
 
-## Template
+# Template
 
 ## **Tuist_CleanArchitecture_Template**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |

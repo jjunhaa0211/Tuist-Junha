@@ -30,7 +30,7 @@
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Tuist란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/1.md) | ~없음~ | 🏗️ |
   > |2|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/2.md) | ~없음~ | 🏗️ |
-  > |3|**모듈이란?** |  | ~없음~ | 🏗️ |
+  > |3|**모듈화란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20I/3.md) | ~없음~ | 🏗️ |
   > |4|**의존성이란?** |  | ~없음~ | 🏗️ |
 
 <br>

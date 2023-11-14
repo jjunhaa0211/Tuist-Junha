@@ -1,0 +1,78 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Push a new beta build to TestFlight"
+  lane :beta do
+    increment_build_number(xcodeproj: "RecorDream-iOS.xcodeproj")
+    build_app(scheme: "RecorDream-iOS")
+    upload_to_testflight
+  end
+end
+
+# fastlane으로 새로운 deviceID를 등록합니다. -> Profile은 Match를 이용하여 따로 갱신 필요
+
+platform :ios do
+  desc "Register new Device"
+  lane :register_new_device do  |options|
+      device_name = prompt(text: "Enter the device name: ")
+      device_udid = prompt(text: "Enter the device UDID: ")
+      device_hash = {}
+      device_hash[device_name] = device_udid
+      register_devices(
+                       devices: device_hash
+                       )
+  end
+end
+
+# 새로운 deviceID 추가 및 인증서 재생성
+
+platform :ios do
+  desc "Register new Device With Cert"
+  lane :register_new_device_WithCert do
+    register_new_device
+    Generate_Certificate
+  end
+end
+
+# 인증서 재생성
+
+platform :ios do
+  desc "Generate Certificate"
+  lane :Generate_Certificate do
+    match(type: "appstore", force_for_new_devices: true)
+    match(type: "development", force_for_new_devices: true)
+  end
+end
+
+# match 인증서 파일 생성 -> 관리자용
+
+platform :ios do
+  lane :matchByTeam do
+      match(git_branch: "master", type: "appstore", username: "ckrgkswnsgh@icloud.com")
+      match(git_branch: "master", type: "development", username: "ckrgkswnsgh@icloud.com")
+  end
+end
+
+# match 인증서 받아오기 -> 팀원용
+
+platform :ios do
+  lane :matchReadOnly do
+      match(git_branch: "master", type: "appstore", username: "ckrgkswnsgh@icloud.com", readonly: true)
+      match(git_branch: "master", type: "development", username: "ckrgkswnsgh@icloud.com", readonly: true)
+  end
+end

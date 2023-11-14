@@ -12,6 +12,8 @@
 
  <i> 저와 함께 Tuist의 기초부터 파봐요! </i>  
  <i> 하나부터 차근차근 시작해봐요~ </i>  
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjunhaa0211%2FTuist-Junha&count_bg=%23A66E30&title_bg=%23000000&icon=smugmug.svg&icon_color=%23925833&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  </br>
   

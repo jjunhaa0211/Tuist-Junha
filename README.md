@@ -42,7 +42,7 @@
 ## **Chapter II: Tuist를 시작하며**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Chapter%20II/1.md) | ~없음~ | 🖤 |
+  > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🖤 |
 <br>
 
 # Tuist 공식문서 번역

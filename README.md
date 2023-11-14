@@ -37,9 +37,9 @@
 ## **Tuist_CleanArchitecture_Template**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1| | **모듈 설명** | |
-  > |2| | **모듈 코드** | |
-  > |3| | **사용 방법 및 주의 사항** | |
+  > |1| Tuist_CleanArchitecture 모듈 구조 설명 | **모듈 설명** | 🏗️ |
+  > |2|Tuist_CleanArchitecture 예제 코드 | **[모듈 코드](https://github.com/jjunhaa0211/Tuist-Junha/tree/main/Tuist_CleanArchitecture_Template)** | 🖤 |
+  > |3| 사용 방법 및 주의 사항 | **사용 방법 및 주의 사항** | 🏗️ |
 
 <br>
 

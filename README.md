@@ -43,7 +43,7 @@
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🖤 |
-  > |2|**Library** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🎩 |
+  > |2|**Library** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2.md) | ~없음~ | 🎩 |
 <br>
 
 # Tuist 공식문서 번역

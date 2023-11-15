@@ -45,6 +45,7 @@
   > |1|**Library** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🎩 |
   > |1|**Framework** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | ~없음~ | 🎩 |
   > |1|**Framework 만들어보자!** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/3/3.md) | [예제 코드](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | 🎩 |
+  > |1|**Binary File** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/4/Binary%20File%202669f814a3884dd1a62190776b2e65a0.md) | ~없음~ | 🎩 |
 <br>
 
 ## **Chapter III: Tuist를 시작하며**

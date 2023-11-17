@@ -54,7 +54,7 @@
 ## **Chapter III: 아잇 Xcode 넌 뭐야?**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Package** | | ~없음~ | 🏗️ |
+  > |1|**Package** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/1.md) | ~없음~ | 🏗️ |
   > |2|**Bundle** | | ~없음~ | 🏗️ |
   > |3|**ABI Stability** | | ~없음~ | 🏗️ |
   > |4|**Module Stability** | | ~없음~ | 🏗️ |
@@ -82,7 +82,7 @@
 ## **Chapter IV: Tuist를 시작하며**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20III/1.md) | ~없음~ | 🖤 |
+  > |1| **Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20III/1.md) | ~없음~ | 🖤 |
 <br>
 
 # Tuist 공식문서 번역

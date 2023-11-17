@@ -68,8 +68,8 @@
 ## **Chapter II: 가이드**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Tuist 채택하기** |  | ~없음~ | 🏗️ |
-  > |2|**여러 매니페스트 파일 간의 코드 공유** |  | ~없음~ | 🏗️ |
+  > |1|**Tuist 채택하기** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/1.md) | ~없음~ | 🏗️ |
+  > |2|**여러 매니페스트 파일 간의 코드 공유** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/2.md) | ~없음~ | 🏗️ |
   > |3|**Tuist 리소스 엑세스** | | ~없음~ | 🏗️ |
   > |4|**Tuist 의존성 정의** |  | ~없음~ | 🏗️ |
   > |5|**Tuist 의존성 추가** |  | ~없음~ | 🏗️ |

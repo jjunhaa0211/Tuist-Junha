@@ -45,18 +45,38 @@
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Library** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🎩 |
-  > |1|**Framework** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | ~없음~ | 🎩 |
-  > |1|**Framework 만들어보자!** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/3/3.md) | [예제 코드](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | 🎩 |
-  > |1|**Binary File** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/4/Binary%20File%202669f814a3884dd1a62190776b2e65a0.md) | ~없음~ | 🎩 |
+  > |2|**Framework** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | ~없음~ | 🎩 |
+  > |3|**Framework 만들어보자!** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/3/3.md) | [예제 코드](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | 🎩 |
+  > |4|**Binary File** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/4/Binary%20File%202669f814a3884dd1a62190776b2e65a0.md) | ~없음~ | 🎩 |
+  > |5|**XCFramework** | | ~없음~ | 🏗️ |
 <br>
 
 ## **Chapter III: 아잇 Xcode 넌 뭐야?**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**Library** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/1.md) | ~없음~ | 🎩 |
-  > |1|**Framework** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | ~없음~ | 🎩 |
-  > |1|**Framework 만들어보자!** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/3/3.md) | [예제 코드](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/2/2.md) | 🎩 |
-  > |1|**Binary File** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20II/4/Binary%20File%202669f814a3884dd1a62190776b2e65a0.md) | ~없음~ | 🎩 |
+  > |1|**Package** | | ~없음~ | 🏗️ |
+  > |2|**Bundle** | | ~없음~ | 🏗️ |
+  > |3|**ABI Stability** | | ~없음~ | 🏗️ |
+  > |4|**Module Stability** | | ~없음~ | 🏗️ |
+  > |5|**dSYMs** | | ~없음~ | 🏗️ |
+  > |6|**App Slicing** | | ~없음~ | 🏗️ |
+  > |7|**On-Demand Resources** | | ~없음~ | 🏗️ |
+  > |8|**Bitcode** | | ~없음~ | 🏗️ |
+  > |9|**XCTest** | | ~없음~ | 🏗️ |
+  > |10|**Deployment & Code Signing** | | ~없음~ | 🏗️ |
+  > |11|**Xcode Debugging** | | ~없음~ | 🏗️ |
+  > |12|**Dependency Manager** | | ~없음~ | 🏗️ |
+  > |13|**Xcode Project Sneak Peek** | | ~없음~ | 🏗️ |
+  > |14|**Project, Workspace** | | ~없음~ | 🏗️ |
+  > |15|**Target** | | ~없음~ | 🏗️ |
+  > |16|**Scheme** | | ~없음~ | 🏗️ |
+  > |17|**Build Configurations** | | ~없음~ | 🏗️ |
+  > |18|**Accessibility Inspector** | | ~없음~ | 🏗️ |
+  > |19|**Architecture Configuration** | | ~없음~ | 🏗️ |
+  > |20|**DerivedData** | | ~없음~ | 🏗️ |
+  > |21|**Groups** | | ~없음~ | 🏗️ |
+  > |22|**Folder References** | | ~없음~ | 🏗️ |
+  > |23|**Mac Console Log Message** | | ~없음~ | 🏗️ |
 <br>
 
 ## **Chapter IV: Tuist를 시작하며**

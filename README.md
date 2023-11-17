@@ -78,7 +78,7 @@
 ## **Chapter VII: 대규모 구축하는 방법**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**µFeatures Architecture** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20VII/1.md) | ~없음~ | 🏗️ |
+  > |1|**µFeatures Architecture** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20VII/1.md) | ~없음~ | 🖤 |
 <br>
 
 

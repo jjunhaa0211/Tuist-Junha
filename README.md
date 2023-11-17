@@ -70,9 +70,9 @@
   > |:---:| :--- | :--- | :--- | :--- |
   > |1|**Tuist 채택하기** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/1.md) | ~없음~ | 🏗️ |
   > |2|**여러 매니페스트 파일 간의 코드 공유** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/2.md) | ~없음~ | 🏗️ |
-  > |3|**Tuist 리소스 엑세스** | | ~없음~ | 🏗️ |
-  > |4|**Tuist 의존성 정의** |  | ~없음~ | 🏗️ |
-  > |5|**Tuist 의존성 추가** |  | ~없음~ | 🏗️ |
+  > |3|**Tuist 리소스 엑세스** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/3.md) | ~없음~ | 🏗️ |
+  > |4|**Tuist 의존성 정의** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/4.md) | ~없음~ | 🏗️ |
+  > |5|**Tuist 의존성 추가** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/5.md) | ~없음~ | 🏗️ |
 <br>
 
 ## **Chapter VII: 대규모 구축하는 방법**

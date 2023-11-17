@@ -61,7 +61,7 @@
 ## **Chapter I: 튜토리얼**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**시작하기** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20I/1.md) | ~없음~ | 🏗️ |
+  > |1|**시작하기** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20I/1.md) | ~없음~ | 🖤 |
   > |2|**자주 묻는 질문** |  | ~없음~ | 🏗️ |
 <br>
 

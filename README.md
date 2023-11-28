@@ -83,7 +83,7 @@
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
   > |1| **Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20III/1.md) | ~없음~ | 🖤 |
-  > |2| **Manifests란?** |  | ~없음~ | 🖤 |
+  > |2| **Manifests란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/2/Manifests%20b0b694d1e8a24f948b36dd23f4303e21.md) | ~없음~ | 🖤 |
 <br>
 
 # Tuist 공식문서 번역

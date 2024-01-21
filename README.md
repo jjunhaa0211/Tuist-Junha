@@ -78,6 +78,7 @@
   > |21|**Groups** | | ~없음~ | 🏗️ |
   > |22|**Folder References** | | ~없음~ | 🏗️ |
   > |23|**Mac Console Log Message** | | ~없음~ | 🏗️ |
+  > |LINK|**참고 링크 모음** | | ~없음~ | 🏗️ |
 <br>
 
 ## **Chapter IV: Tuist를 시작하며**

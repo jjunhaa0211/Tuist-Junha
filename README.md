@@ -54,7 +54,7 @@
 ## **Chapter III: 아잇 Xcode 넌 뭐야?**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |0|**Xcode를 갑작스레 설명하는 이유** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/1.md) | ~없음~ | 🖤 |
+  > |0|**Xcode를 갑작스레 설명하는 이유** | | ~없음~ | 🖤 |
   > |1|**Package** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/1.md) | ~없음~ | 🖤 |
   > |2|**Bundle** | | ~없음~ | 🏗️ |
   > |3|**ABI Stability** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20III/3/ABI%20Stability%20287205dc3d874904878cad286fe140b5.md) | ~없음~  | 🎩 |

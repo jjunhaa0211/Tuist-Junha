@@ -12,7 +12,7 @@ Tuist init 사용시에 아래와 같은 폴더가 생성되며 Tuist 세팅을 
 - 기본적인 Plugins가 하나 생성됩니다.
 - 그리고 Module 만들어보라고 Project.swift도 있는 것이 보이고요~
 - Targets 안에도 여러 예시 파일이 생성됩니다.
-- Tuist 안에는 Config와 Project+Templates도 주네요….
+- Tuist 안에는 Config와 Project+Templates도 있네요….
     - (제가 처음 할때는 이렇게 친절하지 않았는데….)
 
 이러한 구성 요소가 추가되게 하는 것이 tuist init입니다!!

@@ -112,7 +112,7 @@
   > |4| **Install** | tuist install에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/install.md) | 🎩 |
   > |5| **Build** | tuist build에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/Build.md) | 🎩 |
   > |5.1| **바이너리 캐싱** | 바이너리 캐싱 작업 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/바이너리%20캐싱.md) | 🎩 |
-  > |6| **Test** | tuist test에 대해서 | ~없음~ | 🎩 |
+  > |6| **Test** | tuist test에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/test.md) | 🎩 |
   > |7| **Run** | tuist run에 대해서 | ~없음~ | 🎩 |
   > |8| **Cache** | tuist cache에 대해서 | ~없음~ | 🎩 |
   > |9| **Dump** | tuist dump에 대해서 | ~없음~ | 🎩 |
@@ -123,6 +123,11 @@
   > |14| **Cloud** | tuist cloud에 대해서 | ~없음~ | 🎩 |
   > |15| **Plugin** | tuist plugin에 대해서 | ~없음~ | 🎩 |
 
+## **Chapter VII: 대규모 구축하는 방법**
+  > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
+  > |:---:| :--- | :--- | :--- | :--- |
+  > |1|**µFeatures Architecture** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20VII/1.md) | ~없음~ | 🖤 |
+<br>
 
 # Tuist 공식문서 번역
 
@@ -142,13 +147,6 @@
   > |4|**Tuist 의존성 정의** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/4.md) | ~없음~ | 🖤 |
   > |5|**Tuist 의존성 추가** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20II/Guide/5.md) | ~없음~ | 🖤 |
 <br>
-
-## **Chapter VII: 대규모 구축하는 방법**
-  > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
-  > |:---:| :--- | :--- | :--- | :--- |
-  > |1|**µFeatures Architecture** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DocsTranslation/Chapter%20VII/1.md) | ~없음~ | 🖤 |
-<br>
-
 
 # Template
 

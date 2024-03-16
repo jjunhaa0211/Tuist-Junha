@@ -95,7 +95,7 @@
 ## **Chapter V(Bonus): DI 두둥등장~**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |
   > |:---:| :--- | :--- | :--- | :--- |
-  > |1| **DI란?** | | ~없음~ | 🎩 |
+  > |1| **DI란?** | DI..? 디저트 아이스크림?? | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DI/DI.md) | 🎩 |
   > |2| **Swinject?** | Swinject 이론 설명 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DI/Swinject.md) | 🎩 |
   > |3| **Factory?** | | ~없음~ | 🎩 |
   > |4| **Niddle?** | | ~없음~ | 🎩 |

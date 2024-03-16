@@ -2,7 +2,7 @@
 > tuist edit
 > 
 - xcode를 사용하여 매니페스트를 편집하는데 사용하는 명령어입니다.
-- 
+
 <img width="852" alt="스크린샷 2024-03-16 오후 4 23 48" src="https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/ff66a71c-42a9-4c35-90c4-69167225be53">
 
 - 메니페스트 파일을 사용하여 xcode 프로젝트를 생성하고 열어서 xcode 프로젝트의 생명주기에 묶여입니다.

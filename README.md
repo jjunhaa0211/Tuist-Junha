@@ -109,7 +109,7 @@
   > |1| **init** | tuist init에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/init.md) | 🎩 |
   > |2| **Generate** | tuist generate에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/generate.md) | 🎩 |
   > |3| **Edit** | tuist edit에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/edit.md) | 🎩 |
-  > |4| **Install** | tuist install에 대해서 | ~없음~ | 🎩 |
+  > |4| **Install** | tuist install에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/install.md) | 🎩 |
   > |5| **Build** | tuist build에 대해서 | ~없음~ | 🎩 |
   > |6| **Test** | tuist test에 대해서 | ~없음~ | 🎩 |
   > |7| **Run** | tuist run에 대해서 | ~없음~ | 🎩 |

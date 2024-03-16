@@ -110,8 +110,8 @@
   > |2| **Generate** | tuist generate에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/generate.md) | 🎩 |
   > |3| **Edit** | tuist edit에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/edit.md) | 🎩 |
   > |4| **Install** | tuist install에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/install.md) | 🎩 |
-  > |5| **Build** | tuist build에 대해서 | ~없음~ | 🎩 |
-  > |5.1| **바이너리 캐싱** | 바이너리 캐싱 작업 | ~없음~ | 🎩 |
+  > |5| **Build** | tuist build에 대해서 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/Build.md) | 🎩 |
+  > |5.1| **바이너리 캐싱** | 바이너리 캐싱 작업 | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20VI/바이너리%20캐싱.md) | 🎩 |
   > |6| **Test** | tuist test에 대해서 | ~없음~ | 🎩 |
   > |7| **Run** | tuist run에 대해서 | ~없음~ | 🎩 |
   > |8| **Cache** | tuist cache에 대해서 | ~없음~ | 🎩 |

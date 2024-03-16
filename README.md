@@ -99,7 +99,6 @@
   > |2| **Swinject?** | Swinject란? | [설명](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/DI/Swinject.md) | 🎩 |
   > |2.1| **Swinject?** | Swinject 사용 방법 |  | 🎩 |
   > |2.2| **Swinject?** | Swinject 코드 예제 |  | 🎩 |
-
   > |3| **Factory?** | | ~없음~ | 🎩 |
   > |4| **Niddle?** | | ~없음~ | 🎩 |
   > |5| **swift-dependencies?** | | ~없음~ | 🎩 |

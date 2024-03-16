@@ -2,8 +2,8 @@
 > tuist edit
 > 
 - xcode를 사용하여 매니페스트를 편집하는데 사용하는 명령어입니다.
-
-![스크린샷 2024-03-16 오후 4.20.31.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d3adbb31-301d-41a4-8c58-464f5e6df22c/e650473e-dd2f-4f36-99f2-b2c191ab7c98/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-03-16_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.20.31.png)
+- 
+<img width="852" alt="스크린샷 2024-03-16 오후 4 23 48" src="https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/ff66a71c-42a9-4c35-90c4-69167225be53">
 
 - 메니페스트 파일을 사용하여 xcode 프로젝트를 생성하고 열어서 xcode 프로젝트의 생명주기에 묶여입니다.
     - 때문에 터미널을 중단하게되면 xcode 프로젝트는 사라집니다.

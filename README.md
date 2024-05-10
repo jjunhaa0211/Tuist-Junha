@@ -133,7 +133,7 @@
 
 # Tuist 공식문서 번역
 
-<img width="402" alt="스크린샷 2024-05-10 오후 1 32 36" src="https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/ea5fe424-4288-4e81-a062-f488adb76cc3">
+![adsasdf](https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/5f1e7cc8-c2f6-44ff-8e1d-b698ab5dc694)
 
 ## **Chapter I: 튜토리얼**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |

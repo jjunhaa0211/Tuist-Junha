@@ -133,7 +133,7 @@
 
 # Tuist 공식문서 번역
 
-![adsasdf](https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/5f1e7cc8-c2f6-44ff-8e1d-b698ab5dc694)
+![asdf](https://github.com/jjunhaa0211/Tuist-Junha/assets/102890390/5dde6d93-fcf3-4c67-9417-6eb5582177fb)
 
 ## **Chapter I: 튜토리얼**
   > | 순서 | 제목 | 내용 | 예제 코드 | 완성 여부 |

@@ -86,7 +86,7 @@
   > |:---:| :--- | :--- | :--- | :--- |
   > |1| **Tuist 설치 및 명령어** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20III/1.md) | ~없음~ | 🖤 |
   > |2| **Manifests란?** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/2/Manifests%20b0b694d1e8a24f948b36dd23f4303e21.md) | ~없음~ | 🖤 |
-  > |2.1| **Project.swift** | | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/2/2.1/Project.md) | 🖤 |
+  > |2.1| **Project.swift** | [내용](https://github.com/jjunhaa0211/Tuist-Junha/blob/main/Tuist/Chapter%20IV/2/2.1/Project.md) | ~없음~ | 🖤 |
   > |2.2| **Workspace.swift** | | ~없음~ | 🖤 |
   > |2.3| **Dependencies.swift** | | ~없음~ | 🖤 |
   > |2.4| **Config.swift** | | ~없음~ | 🖤 |
